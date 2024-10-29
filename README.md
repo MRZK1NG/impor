@@ -1,4 +1,12 @@
-# Extra-Keys
+# Extra-Keys For Termux Android
 
-Jangan Banyak Tanya BANGKE...
-MIKIR PAKE OTAK....
+## How to use ?
+'''
+git clone https://github.com/zaiimrq/ExtraKeys.git
+'''
+'''
+cd ExtraKeys
+'''
+'''
+
+'''
